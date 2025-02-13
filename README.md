@@ -122,10 +122,6 @@ npm test
 - Input validation using **Express Validator**.
 - Error handling middleware for better debugging.
 
-### ✅ Deployment
-- The application is deployed on **Render/Vercel/Heroku** (modify based on where you deployed).
-- Access the live version: [Live Demo](#) *(Replace with actual URL)*
-
 ---
 
 ## Future Enhancements
